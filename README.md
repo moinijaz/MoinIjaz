@@ -1,6 +1,8 @@
 ## Welcome to Moin's World 👋
 💬 I'm an Electrical Engineer with specialization in Electronics.
+
 🔭 I’m currently working on Verilog and Python.
+
 📫 How to reach me: moin.ijaz9@gmail.com
 
 <!--
