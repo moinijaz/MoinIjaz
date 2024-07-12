@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moin Ijaz</h1>
-<h3 align="center">A passionate FPGA Design Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinijaz&label=Profile%20views&color=0e75b6&style=flat" alt="moinijaz" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=moinijaz&label=Profile%20views&color=0e75b6&style=flat" alt="moinijaz" /> </p>
+
+<div id="badges" align="left">
 
 - 🔭 I’m currently working on [IP Catalog of Raptor Design Suite](https://github.com/os-fpga/Raptor)
 
@@ -10,6 +12,8 @@
 - 💬 Ask me about **Verilog, SystemVerilog, Python Scripting**
 
 - 📫 How to reach me **moin.ijaz9@gmail.com**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
