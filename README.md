@@ -5,7 +5,7 @@
 
 <div id="badges" align="left">
 
-- 🔭 I’m currently working on [IP Catalog of Raptor Design Suite](https://github.com/os-fpga/Raptor)
+- 🔭 I’m currently working on [IP Catalog](https://github.com/os-fpga/IP_Catalog) of [Raptor Design Suite](https://github.com/os-fpga/Raptor)
 
 - 👨‍💻 All of my projects are available at [https://github.com/moinijaz](https://github.com/moinijaz)
 
